@@ -1,0 +1,1 @@
+We consider origin/develop to be the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release
